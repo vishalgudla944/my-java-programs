@@ -32,3 +32,16 @@ These programs reflect my journey in mastering Java and also served as practical
 1. Clone the repo:
    ```bash
    git clone https://github.com/vishalgudla944/java-programs.git
+2.Open any .java file in your IDE (Eclipse, IntelliJ, VS Code, etc.)
+
+3. Compile and run:
+javac FileName.java (Example: javac p1.java)
+java FileName (Example: java p1)
+
+Author
+Vishal Gudla
+Vice President, App and Web Development Club – KGRCET
+GitHub: https://github.com/vishalgudla944/  | LinkedIn: https://www.linkedin.com/in/vishal-gudla/
+
+Contribute
+Contributions are welcome! Feel free to fork the repo, submit pull requests, or suggest improvements.
