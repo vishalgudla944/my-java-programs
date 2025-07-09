@@ -15,6 +15,8 @@ These programs reflect my journey in mastering Java and also served as practical
 - ✅ File I/O
 - ✅ Recursion & Algorithms
 
+Use the "Go to file" search option to quickly find your desired topics or programs.
+You can search using filenames like p1, p2, p3, or by keywords such as Arrays, Strings, Operators, etc.
 
 ---
 
