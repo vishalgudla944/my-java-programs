@@ -13,9 +13,8 @@ These programs reflect my journey in mastering Java and also served as practical
 - ✅ Object-Oriented Programming (OOPs)
 - ✅ Exception Handling
 - ✅ File I/O
-- ✅ Collections Framework
 - ✅ Recursion & Algorithms
-- ✅ Mini Projects (e.g., Student Management System, Calculator)
+
 
 ---
 
